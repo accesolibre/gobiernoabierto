@@ -31,6 +31,7 @@ Estos principios pueden verse reflejados en una serie de políticas o estrategia
 - El Salvador: portal de gobierno abierto (Presidencia de la República), contiene herramientas para solicitar información pública, enviar quejas, avisos y denuncias, consultar información pública, ver cumplimiento de publicaciones, y consultar información socialmente útil.  http://www.gobiernoabierto.gob.sv/ 
 - Paraguay: Ley de Acceso a la Información Pública, Instituto de Acceso a la Información Pública, portal de gobierno abierto http://www.gobiernoabierto.gov.py/
 - España: Ley sobre la reutilización de la información del sector público
+- Madrid, España: http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Gobierno-abierto
 - Argentina: http://www.gobiernoabierto.gob.ar/
 
 ## Autor
