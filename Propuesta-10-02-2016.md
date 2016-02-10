@@ -39,12 +39,12 @@
 - El gobierno abierto (GA) es un tema altamente complejo y vasto.
 - La propuesta de GA puede herir susceptibilidades, principalmente económicas, por parte de los miembros de la AN.
 - Aún tomando en cuenta los dos puntos anteriores, mi propuesta es:
-1. Mencionar el concepto de gobierno abierto, indicando que es el objetivo final, pero no ahondar en el tema.
-2. Abordar las ventajas que trae la utilización de sistemas, programas y protocolos abiertos en la APN
-3. Abordar las ventajas de datos abiertos (Open Data).
-4. Demostrar las ventajas económicas, dejando claro que menos dinero no significa gratis.
-5. Demostrar la necesidad de establecer mecanismos diferentes al pago de HP.
-6. Establecer la necesidad de ajustar las leyes ya existentes, particularmente Infogobierno e Interoperabilidad; incluyendo la necesiidad de la creación de los reglamentos faltantes, ampliamente discutidos en los previos de la reunión con la Diputada Dinorah Figuera.
-7. Establecer los mecanismos para la contraloría de las leyes existente.
-8. Mostrar la disposición de la CSL a colaborar con la APN para la adaptación total de la propuesta indicada.
-9. No olvidar que la Comisión de Ciencia y Tecnología no se centra únicamente en la parte de las TICs, sino también en otras especialidades consideradas ciencia y tecnología.
+  1. Mencionar el concepto de gobierno abierto, indicando que es el objetivo final, pero no ahondar en el tema.
+  2. Abordar las ventajas que trae la utilización de sistemas, programas y protocolos abiertos en la APN
+  3. Abordar las ventajas de datos abiertos (Open Data).
+  4. Demostrar las ventajas económicas, dejando claro que menos dinero no significa gratis.
+  5. Demostrar la necesidad de establecer mecanismos diferentes al pago de HP.
+  6. Establecer la necesidad de ajustar las leyes ya existentes, particularmente Infogobierno e Interoperabilidad; incluyendo la necesiidad de la creación de los reglamentos faltantes, ampliamente discutidos en los previos de la reunión con la Diputada Dinorah Figuera.
+  7. Establecer los mecanismos para la contraloría de las leyes existente.
+  8. Mostrar la disposición de la CSL a colaborar con la APN para la adaptación total de la propuesta indicada.
+  9. No olvidar que la Comisión de Ciencia y Tecnología no se centra únicamente en la parte de las TICs, sino también en otras especialidades consideradas ciencia y tecnología.
