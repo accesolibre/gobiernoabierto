@@ -16,15 +16,13 @@ la información, documentos y procedimientos del gobierno, sino participar de
 manera significativa en su construcción, innovación y mejora. 
 
 El concepto de gobierno abierto es, pues, profundamente compatible con la noción
-de gobierno participativo contenida en la Constitución de 1999, pero la lleva un
-paso más allá: en lugar de limitarse a establecer mecanismos electorales para la
-participación ciudadana, la idea del gobierno abierto parte del concepto de
-innovación para crear mejoras en la eficiencia, la eficacia y la calidad de los
-sistemas y procesos gubernamentales: el gobierno se convierte así en una
-plataforma para la creación de innovación social, proporcionando recursos,
-estableciendo reglas, pero permitiendo a los ciudadanos, como individuos o de
-manera organizada, llevar a cabo acciones verdaderamente significativas para el
-cambio.
+de gobierno participativo contenida en la Constitución de 1999. La idea del
+gobierno abierto parte del concepto de innovación para crear mejoras en la
+eficiencia, la eficacia y la calidad de los sistemas y procesos gubernamentales:
+el gobierno se convierte así en una plataforma para la creación de innovación
+social, proporcionando recursos, estableciendo reglas, pero permitiendo a los
+ciudadanos, como individuos o de manera organizada, llevar a cabo acciones
+verdaderamente significativas para el cambio.
 
 De acuerdo con los parámetros comúnmente aceptados, tres principios rigen el
 funcionamiento del gobierno abierto:
