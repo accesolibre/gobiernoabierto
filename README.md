@@ -2,7 +2,11 @@
 
 En su sentido más básico, gobierno abierto es la noción de que el pueblo tiene
 la potestad de vigilar y escrutinizar el accionar de los órganos de la
-Administración Pública a través del acceso a sus documentos y procedimientos.
+Administración Pública a través del acceso a sus documentos y procedimientos, 
+además que estos datos sirven al poder popular como un referente analítico para
+la puesta en marcha de proyectos de diversa índole (formativo, productivo, 
+organizacional), teniendo a mano la data necesaria, para reconocerse en el 
+territorio y capacidades.
 Este principio, considerado esencial para el correcto funcionamiento de la
 democracia, es comúnmente aceptado y protegido por las constituciones de casi
 todos los países democráticos del mundo.
@@ -110,7 +114,8 @@ gobierno abierto, éstas se estructuran en torno a dos ejes centrales:
 - Madrid, España:
   http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Gobierno-abierto
 - Argentina: http://www.gobiernoabierto.gob.ar/
+- Ecuador: Esto es un proyecto de diseños de cambio de matriz productiva hacia una sociedad del conocimiento libre, abierto y común el Ecuador. Así habla el Plan Nacional del Buen Vivir. http://floksociety.org
 
 ## Autor
 
-Marianne Díaz [@mariannedh](https://twitter.com/mariannedh)
+CSL (Comunidad de Software Libre Venezuela)
